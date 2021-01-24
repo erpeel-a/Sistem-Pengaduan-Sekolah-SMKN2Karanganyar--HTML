@@ -12,7 +12,7 @@
 # Perkenalan
 
 Sistem Pengaduan Sekolah adalah sebuah sistem pelayanan online untuk menyalurkan aspirasi maupun untuk melaporkan
-sesuatu demi kemajuan bersama (hanya project gabut-an)
+sesuatu untuk warga sekolah demi kemajuan bersama (hanya project gabut-an)
 
 
 
